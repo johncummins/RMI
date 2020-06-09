@@ -1,0 +1,1 @@
+java -cp /Users/johncummins/Downloads/Distributed_systems/TempDist/src -Djava.rmi.server.codebase=file:/Users/johncummins/Downloads/Distributed_systems/TempDist/src -Djava.rmi.server.hostname=localhost -Djava.security.policy=client.policy client.Client

@@ -1,0 +1,3 @@
+grant codeBase "file:/Users/johncummins/Downloads/Distributed_systems/TempDist/src" {
+    permission java.security.AllPermission;
+};
